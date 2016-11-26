@@ -1,5 +1,26 @@
 {
     "CVs": {
+        "ALEXSSS": {
+            "data_url": "https://raw.githubusercontent.com/learp/GitFaceCV-storage/master/CVs/ALEXSSS.GitFace.json",
+            "profile_info": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/9338238?v=3",
+                "bio": null,
+                "blog": null,
+                "company": null,
+                "created_at": "2014-10-21T15:14:21Z",
+                "email": null,
+                "followers": 1,
+                "html_url": "https://github.com/ALEXSSS",
+                "location": null,
+                "login": "ALEXSSS",
+                "name": null,
+                "organisations": [],
+                "public_repos": 8,
+                "repos_url": "https://github.com/ALEXSSS?tab=repositories"
+            },
+            "sha": "2e71920850aca27b9089d89a49fdddd627ddd40b",
+            "update_date": "26-11-2016"
+        },
         "kinmanz": {
             "data_url": "https://raw.githubusercontent.com/learp/GitFaceCV-storage/master/CVs/kinmanz.GitFace.json",
             "profile_info": {
@@ -22,5 +43,5 @@
             "update_date": "26-11-2016"
         }
     },
-    "records": 1
+    "records": 2
 }

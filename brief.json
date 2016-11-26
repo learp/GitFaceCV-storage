@@ -41,7 +41,64 @@
             },
             "sha": "565d8094d14c96886421238b5874cc10ff85905c",
             "update_date": "26-11-2016"
+        },
+        "tfoote": {
+            "data_url": "https://raw.githubusercontent.com/learp/GitFaceCV-storage/master/CVs/tfoote.GitFace.json",
+            "profile_info": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/447804?v=3",
+                "bio": null,
+                "blog": null,
+                "company": "Open Source Robotics Foundation",
+                "created_at": "2010-10-21T03:44:45Z",
+                "email": "tfoote@osrfoundation.org",
+                "followers": 121,
+                "html_url": "https://github.com/tfoote",
+                "location": null,
+                "login": "tfoote",
+                "name": "Tully Foote",
+                "organisations": [
+                    {
+                        "avatar_url": "https://avatars.githubusercontent.com/u/547448?v=3",
+                        "html_url": "https://github.com/ros",
+                        "login": "ros"
+                    },
+                    {
+                        "avatar_url": "https://avatars.githubusercontent.com/u/2239949?v=3",
+                        "html_url": "https://github.com/vcstools",
+                        "login": "vcstools"
+                    },
+                    {
+                        "avatar_url": "https://avatars.githubusercontent.com/u/2328631?v=3",
+                        "html_url": "https://github.com/ros-planning",
+                        "login": "ros-planning"
+                    },
+                    {
+                        "avatar_url": "https://avatars.githubusercontent.com/u/2328632?v=3",
+                        "html_url": "https://github.com/ros-infrastructure",
+                        "login": "ros-infrastructure"
+                    },
+                    {
+                        "avatar_url": "https://avatars.githubusercontent.com/u/2349874?v=3",
+                        "html_url": "https://github.com/ros-robots",
+                        "login": "ros-robots"
+                    },
+                    {
+                        "avatar_url": "https://avatars.githubusercontent.com/u/2349888?v=3",
+                        "html_url": "https://github.com/ros-simulation",
+                        "login": "ros-simulation"
+                    },
+                    {
+                        "avatar_url": "https://avatars.githubusercontent.com/u/7365061?v=3",
+                        "html_url": "https://github.com/ament",
+                        "login": "ament"
+                    }
+                ],
+                "public_repos": 88,
+                "repos_url": "https://github.com/tfoote?tab=repositories"
+            },
+            "sha": "9e26dfeeb6e641a33dae4961196235bdb965b21b",
+            "update_date": "26-11-2016"
         }
     },
-    "records": 2
+    "records": 3
 }

@@ -1,0 +1,500 @@
+{
+    "cscenter/hpcourse": {
+        "created_at": "21-04-2015",
+        "description": "Project is aimed to store student's practical works on high performance computing course",
+        "forks": 46,
+        "full_name": "cscenter/hpcourse",
+        "html_url": "https://github.com/cscenter/hpcourse",
+        "language": "Java",
+        "languages": {
+            "Batchfile": 437,
+            "C": 560,
+            "C#": 20062,
+            "C++": 162742,
+            "CMake": 7571,
+            "Groovy": 7434,
+            "HTML": 97,
+            "Java": 1993481,
+            "Kotlin": 45144,
+            "Makefile": 3302,
+            "Protocol Buffer": 57349,
+            "Python": 1502
+        },
+        "size": 5366,
+        "stars": 1,
+        "statistic": {
+            "adds": 19722,
+            "dels": 584,
+            "total_commits": 8,
+            "weeks": [
+                {
+                    "a": 9537,
+                    "c": 1,
+                    "d": 0,
+                    "w": 1459641600
+                },
+                {
+                    "a": 10162,
+                    "c": 4,
+                    "d": 574,
+                    "w": 1460246400
+                },
+                {
+                    "a": 23,
+                    "c": 3,
+                    "d": 10,
+                    "w": 1462060800
+                }
+            ]
+        },
+        "updated_at": "30-09-2016"
+    },
+    "kinmanz/GitFaceCV-storage1": {
+        "created_at": "23-11-2016",
+        "description": "It's repository store all CVs made by you in GitFace app. Be careful if you want to change something!",
+        "forks": 0,
+        "full_name": "kinmanz/GitFaceCV-storage1",
+        "html_url": "https://github.com/kinmanz/GitFaceCV-storage1",
+        "language": null,
+        "languages": {},
+        "size": 0,
+        "stars": 0,
+        "statistic": {
+            "adds": 2,
+            "dels": 0,
+            "total_commits": 2,
+            "weeks": [
+                {
+                    "a": 2,
+                    "c": 2,
+                    "d": 0,
+                    "w": 1479600000
+                }
+            ]
+        },
+        "updated_at": "23-11-2016"
+    },
+    "kinmanz/GitFaceCV-storage2": {
+        "created_at": "23-11-2016",
+        "description": "It's repository store all CVs made by you in GitFace app. Be careful if you want to change something!",
+        "forks": 0,
+        "full_name": "kinmanz/GitFaceCV-storage2",
+        "html_url": "https://github.com/kinmanz/GitFaceCV-storage2",
+        "language": null,
+        "languages": {},
+        "size": 11,
+        "stars": 0,
+        "statistic": {
+            "adds": 179,
+            "dels": 10,
+            "total_commits": 21,
+            "weeks": [
+                {
+                    "a": 179,
+                    "c": 21,
+                    "d": 10,
+                    "w": 1479600000
+                }
+            ]
+        },
+        "updated_at": "23-11-2016"
+    },
+    "kinmanz/GitFaceCV-storage3": {
+        "created_at": "26-11-2016",
+        "description": "It's repository store all CVs made by you in GitFace app. Be careful if you want to change something!",
+        "forks": 0,
+        "full_name": "kinmanz/GitFaceCV-storage3",
+        "html_url": "https://github.com/kinmanz/GitFaceCV-storage3",
+        "language": null,
+        "languages": {},
+        "size": 4,
+        "stars": 0,
+        "statistic": {
+            "adds": 59,
+            "dels": 6,
+            "total_commits": 9,
+            "weeks": [
+                {
+                    "a": 59,
+                    "c": 9,
+                    "d": 6,
+                    "w": 1479600000
+                }
+            ]
+        },
+        "updated_at": "26-11-2016"
+    },
+    "kinmanz/JUnitMockitoPowerMockTest": {
+        "created_at": "30-07-2016",
+        "description": "Sampels of Mockito and PowerMock",
+        "forks": 0,
+        "full_name": "kinmanz/JUnitMockitoPowerMockTest",
+        "html_url": "https://github.com/kinmanz/JUnitMockitoPowerMockTest",
+        "language": "Java",
+        "languages": {
+            "Java": 9374
+        },
+        "size": 6,
+        "stars": 0,
+        "statistic": {
+            "adds": 370,
+            "dels": 32,
+            "total_commits": 5,
+            "weeks": [
+                {
+                    "a": 291,
+                    "c": 3,
+                    "d": 32,
+                    "w": 1469318400
+                },
+                {
+                    "a": 79,
+                    "c": 2,
+                    "d": 0,
+                    "w": 1469923200
+                }
+            ]
+        },
+        "updated_at": "31-07-2016"
+    },
+    "kinmanz/NewMyTestRepo": {
+        "created_at": "22-11-2016",
+        "description": null,
+        "forks": 0,
+        "full_name": "kinmanz/NewMyTestRepo",
+        "html_url": "https://github.com/kinmanz/NewMyTestRepo",
+        "language": null,
+        "languages": {},
+        "size": 1,
+        "stars": 0,
+        "statistic": {
+            "adds": 7,
+            "dels": 1,
+            "total_commits": 7,
+            "weeks": [
+                {
+                    "a": 7,
+                    "c": 7,
+                    "d": 1,
+                    "w": 1479600000
+                }
+            ]
+        },
+        "updated_at": "22-11-2016"
+    },
+    "kinmanz/RESTinteraction": {
+        "created_at": "24-08-2016",
+        "description": "interacrion with TeamCity api",
+        "forks": 0,
+        "full_name": "kinmanz/RESTinteraction",
+        "html_url": "https://github.com/kinmanz/RESTinteraction",
+        "language": "Python",
+        "languages": {
+            "Python": 5115,
+            "Shell": 1448
+        },
+        "size": 8,
+        "stars": 0,
+        "statistic": {
+            "adds": 414,
+            "dels": 172,
+            "total_commits": 6,
+            "weeks": [
+                {
+                    "a": 171,
+                    "c": 3,
+                    "d": 5,
+                    "w": 1471737600
+                },
+                {
+                    "a": 243,
+                    "c": 3,
+                    "d": 167,
+                    "w": 1472342400
+                }
+            ]
+        },
+        "updated_at": "24-08-2016"
+    },
+    "kinmanz/Server": {
+        "created_at": "09-04-2016",
+        "description": null,
+        "forks": 0,
+        "full_name": "kinmanz/Server",
+        "html_url": "https://github.com/kinmanz/Server",
+        "language": "Java",
+        "languages": {
+            "Java": 16730,
+            "Protocol Buffer": 1917
+        },
+        "size": 36,
+        "stars": 0,
+        "statistic": {
+            "adds": 9690,
+            "dels": 89,
+            "total_commits": 6,
+            "weeks": [
+                {
+                    "a": 9584,
+                    "c": 1,
+                    "d": 0,
+                    "w": 1459641600
+                },
+                {
+                    "a": 106,
+                    "c": 5,
+                    "d": 89,
+                    "w": 1460246400
+                }
+            ]
+        },
+        "updated_at": "09-04-2016"
+    },
+    "kinmanz/SpringMVCBook": {
+        "created_at": "05-08-2016",
+        "description": null,
+        "forks": 0,
+        "full_name": "kinmanz/SpringMVCBook",
+        "html_url": "https://github.com/kinmanz/SpringMVCBook",
+        "language": "Java",
+        "languages": {
+            "Java": 50297
+        },
+        "size": 453,
+        "stars": 0,
+        "statistic": {
+            "adds": 2135,
+            "dels": 178,
+            "total_commits": 12,
+            "weeks": [
+                {
+                    "a": 291,
+                    "c": 3,
+                    "d": 96,
+                    "w": 1469923200
+                },
+                {
+                    "a": 1337,
+                    "c": 8,
+                    "d": 46,
+                    "w": 1470528000
+                },
+                {
+                    "a": 507,
+                    "c": 1,
+                    "d": 36,
+                    "w": 1471132800
+                }
+            ]
+        },
+        "updated_at": "05-08-2016"
+    },
+    "kinmanz/TestIBATIS": {
+        "created_at": "25-07-2016",
+        "description": "iBatis Example",
+        "forks": 0,
+        "full_name": "kinmanz/TestIBATIS",
+        "html_url": "https://github.com/kinmanz/TestIBATIS",
+        "language": "Java",
+        "languages": {
+            "Java": 4184
+        },
+        "size": 3,
+        "stars": 0,
+        "statistic": {
+            "adds": 248,
+            "dels": 0,
+            "total_commits": 1,
+            "weeks": [
+                {
+                    "a": 248,
+                    "c": 1,
+                    "d": 0,
+                    "w": 1469318400
+                }
+            ]
+        },
+        "updated_at": "25-07-2016"
+    },
+    "kinmanz/dev": {
+        "created_at": "18-09-2016",
+        "description": null,
+        "forks": 0,
+        "full_name": "kinmanz/dev",
+        "html_url": "https://github.com/kinmanz/dev",
+        "language": "Java",
+        "languages": {
+            "CSS": 3672,
+            "Java": 112808,
+            "JavaScript": 6360
+        },
+        "size": 3707,
+        "stars": 0,
+        "statistic": {
+            "adds": 1298,
+            "dels": 19,
+            "total_commits": 1,
+            "weeks": [
+                {
+                    "a": 1298,
+                    "c": 1,
+                    "d": 19,
+                    "w": 1474156800
+                }
+            ]
+        },
+        "updated_at": "18-09-2016"
+    },
+    "kinmanz/hpcourse": {
+        "created_at": "09-04-2016",
+        "description": "Project is aimed to store student's practical works on high performance computing course",
+        "forks": 0,
+        "full_name": "kinmanz/hpcourse",
+        "html_url": "https://github.com/kinmanz/hpcourse",
+        "language": "Java",
+        "languages": {
+            "C#": 20062,
+            "C++": 47110,
+            "CMake": 5013,
+            "Java": 319340,
+            "Kotlin": 12587,
+            "Protocol Buffer": 5744,
+            "Python": 1502
+        },
+        "size": 416,
+        "stars": 0,
+        "statistic": {
+            "adds": 10185,
+            "dels": 584,
+            "total_commits": 7,
+            "weeks": [
+                {
+                    "a": 10162,
+                    "c": 4,
+                    "d": 574,
+                    "w": 1460246400
+                },
+                {
+                    "a": 23,
+                    "c": 3,
+                    "d": 10,
+                    "w": 1462060800
+                }
+            ]
+        },
+        "updated_at": "09-04-2016"
+    },
+    "kinmanz/projs": {
+        "created_at": "16-09-2016",
+        "description": null,
+        "forks": 0,
+        "full_name": "kinmanz/projs",
+        "html_url": "https://github.com/kinmanz/projs",
+        "language": "Java",
+        "languages": {
+            "CSS": 9348,
+            "HTML": 41727,
+            "Java": 112679,
+            "JavaScript": 6360
+        },
+        "size": 3829,
+        "stars": 0,
+        "statistic": {
+            "adds": 66861,
+            "dels": 152,
+            "total_commits": 2,
+            "weeks": [
+                {
+                    "a": 66861,
+                    "c": 2,
+                    "d": 152,
+                    "w": 1473552000
+                }
+            ]
+        },
+        "updated_at": "16-09-2016"
+    },
+    "kinmanz/working": {
+        "created_at": "14-03-2016",
+        "description": null,
+        "forks": 0,
+        "full_name": "kinmanz/working",
+        "html_url": "https://github.com/kinmanz/working",
+        "language": "HTML",
+        "languages": {
+            "HTML": 46021,
+            "JavaScript": 7404,
+            "Python": 45501
+        },
+        "size": 124,
+        "stars": 0,
+        "statistic": {
+            "adds": 3321,
+            "dels": 628,
+            "total_commits": 90,
+            "weeks": [
+                {
+                    "a": 734,
+                    "c": 16,
+                    "d": 38,
+                    "w": 1457827200
+                },
+                {
+                    "a": 821,
+                    "c": 15,
+                    "d": 227,
+                    "w": 1458432000
+                },
+                {
+                    "a": 531,
+                    "c": 8,
+                    "d": 28,
+                    "w": 1459036800
+                },
+                {
+                    "a": 112,
+                    "c": 3,
+                    "d": 12,
+                    "w": 1459641600
+                },
+                {
+                    "a": 107,
+                    "c": 3,
+                    "d": 11,
+                    "w": 1460246400
+                },
+                {
+                    "a": 437,
+                    "c": 25,
+                    "d": 186,
+                    "w": 1460851200
+                },
+                {
+                    "a": 198,
+                    "c": 10,
+                    "d": 60,
+                    "w": 1461456000
+                },
+                {
+                    "a": 300,
+                    "c": 3,
+                    "d": 46,
+                    "w": 1462060800
+                },
+                {
+                    "a": 79,
+                    "c": 6,
+                    "d": 20,
+                    "w": 1462665600
+                },
+                {
+                    "a": 2,
+                    "c": 1,
+                    "d": 0,
+                    "w": 1463270400
+                }
+            ]
+        },
+        "updated_at": "08-05-2016"
+    }
+}

@@ -1,0 +1,205 @@
+{
+    "ALEXSSS/EMT": {
+        "created_at": "30-04-2016",
+        "description": "Code of course work",
+        "forks": 0,
+        "full_name": "ALEXSSS/EMT",
+        "html_url": "https://github.com/ALEXSSS/EMT",
+        "language": "Python",
+        "languages": {
+            "Python": 37591
+        },
+        "size": 17,
+        "stars": 0,
+        "statistic": {
+            "adds": 5,
+            "dels": 1,
+            "total_commits": 3,
+            "weeks": [
+                {
+                    "a": 2,
+                    "c": 1,
+                    "d": 0,
+                    "w": 1461456000
+                },
+                {
+                    "a": 2,
+                    "c": 1,
+                    "d": 1,
+                    "w": 1464480000
+                },
+                {
+                    "a": 1,
+                    "c": 1,
+                    "d": 0,
+                    "w": 1472947200
+                }
+            ]
+        },
+        "updated_at": "30-04-2016"
+    },
+    "ALEXSSS/csc-os-fall-2016": {
+        "created_at": "23-09-2016",
+        "description": "OS course fall 2016",
+        "forks": 0,
+        "full_name": "ALEXSSS/csc-os-fall-2016",
+        "html_url": "https://github.com/ALEXSSS/csc-os-fall-2016",
+        "language": "C",
+        "languages": {
+            "Assembly": 526,
+            "C": 7989,
+            "Makefile": 126
+        },
+        "size": 11,
+        "stars": 0,
+        "statistic": {
+            "adds": 1019,
+            "dels": 611,
+            "total_commits": 8,
+            "weeks": [
+                {
+                    "a": 973,
+                    "c": 7,
+                    "d": 611,
+                    "w": 1474761600
+                },
+                {
+                    "a": 46,
+                    "c": 1,
+                    "d": 0,
+                    "w": 1475971200
+                }
+            ]
+        },
+        "updated_at": "01-10-2016"
+    },
+    "ALEXSSS/dev": {
+        "created_at": "17-09-2016",
+        "description": null,
+        "forks": 0,
+        "full_name": "ALEXSSS/dev",
+        "html_url": "https://github.com/ALEXSSS/dev",
+        "language": "Java",
+        "languages": {
+            "CSS": 834,
+            "Java": 96838,
+            "JavaScript": 2936
+        },
+        "size": 3638,
+        "stars": 0,
+        "statistic": {
+            "adds": 103,
+            "dels": 1,
+            "total_commits": 5,
+            "weeks": [
+                {
+                    "a": 103,
+                    "c": 5,
+                    "d": 1,
+                    "w": 1473552000
+                }
+            ]
+        },
+        "updated_at": "17-09-2016"
+    },
+    "ALEXSSS/exampleOfJettyAuthorization": {
+        "created_at": "29-05-2016",
+        "description": "some examples ",
+        "forks": 0,
+        "full_name": "ALEXSSS/exampleOfJettyAuthorization",
+        "html_url": "https://github.com/ALEXSSS/exampleOfJettyAuthorization",
+        "language": "Java",
+        "languages": {
+            "HTML": 354,
+            "Java": 20490
+        },
+        "size": 51,
+        "stars": 0,
+        "statistic": {
+            "adds": 4,
+            "dels": 1,
+            "total_commits": 2,
+            "weeks": [
+                {
+                    "a": 4,
+                    "c": 2,
+                    "d": 1,
+                    "w": 1464480000
+                }
+            ]
+        },
+        "updated_at": "29-05-2016"
+    },
+    "ALEXSSS/per2016summer": {
+        "created_at": "05-09-2016",
+        "description": "my some work per summer 2016",
+        "forks": 0,
+        "full_name": "ALEXSSS/per2016summer",
+        "html_url": "https://github.com/ALEXSSS/per2016summer",
+        "language": "Java",
+        "languages": {
+            "CSS": 277,
+            "Java": 88336
+        },
+        "size": 9162,
+        "stars": 0,
+        "statistic": {
+            "adds": 1,
+            "dels": 0,
+            "total_commits": 1,
+            "weeks": [
+                {
+                    "a": 1,
+                    "c": 1,
+                    "d": 0,
+                    "w": 1472947200
+                }
+            ]
+        },
+        "updated_at": "05-09-2016"
+    },
+    "ALEXSSS/store_of_my_project1": {
+        "created_at": "18-07-2015",
+        "description": "store_of_my_project1",
+        "forks": 0,
+        "full_name": "ALEXSSS/store_of_my_project1",
+        "html_url": "https://github.com/ALEXSSS/store_of_my_project1",
+        "language": "C#",
+        "languages": {
+            "C": 39650,
+            "C#": 269728,
+            "Java": 52832,
+            "Makefile": 192627,
+            "PHP": 2448,
+            "Shell": 43560
+        },
+        "size": 2805,
+        "stars": 0,
+        "statistic": {
+            "adds": 36725,
+            "dels": 1,
+            "total_commits": 3,
+            "weeks": [
+                {
+                    "a": 36723,
+                    "c": 1,
+                    "d": 0,
+                    "w": 1436659200
+                },
+                {
+                    "a": 1,
+                    "c": 1,
+                    "d": 0,
+                    "w": 1461456000
+                },
+                {
+                    "a": 1,
+                    "c": 1,
+                    "d": 1,
+                    "w": 1464480000
+                }
+            ]
+        },
+        "updated_at": "30-04-2016"
+    }
+}

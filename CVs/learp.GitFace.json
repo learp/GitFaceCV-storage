@@ -1,0 +1,154 @@
+{
+    "repos": [
+        {
+            "createdAt": "2017-09-18T15:54:25Z",
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnkxMDM5NjAyNjI=",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": "#89e051",
+                            "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                            "name": "Shell"
+                        },
+                        "size": 615
+                    }
+                ]
+            },
+            "name": "virtual_arduino",
+            "owner": {
+                "login": "OSLL"
+            },
+            "primaryLanguage": {
+                "color": "#89e051",
+                "id": "MDg6TGFuZ3VhZ2UxMzk=",
+                "name": "Shell"
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 98,
+                "ball": 0.10897637056813955,
+                "dels": 36,
+                "len_weeks": 3,
+                "total_commits": 12,
+                "weeks": [
+                    {
+                        "a": 43,
+                        "c": 3,
+                        "d": 2,
+                        "w": 1506816000
+                    },
+                    {
+                        "a": 43,
+                        "c": 8,
+                        "d": 33,
+                        "w": 1507420800
+                    },
+                    {
+                        "a": 12,
+                        "c": 1,
+                        "d": 1,
+                        "w": 1508630400
+                    }
+                ]
+            },
+            "updatedAt": "2017-10-27T11:11:06Z",
+            "url": "https://github.com/OSLL/virtual_arduino",
+            "watchers": {
+                "totalCount": 7
+            }
+        },
+        {
+            "createdAt": "2017-04-09T18:47:20Z",
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk4NzczMTI4Mg==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": "#3572A5",
+                            "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                            "name": "Python"
+                        },
+                        "size": 22110
+                    }
+                ]
+            },
+            "name": "crime_classification",
+            "owner": {
+                "login": "learp"
+            },
+            "primaryLanguage": {
+                "color": "#3572A5",
+                "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                "name": "Python"
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 727200,
+                "ball": 8.599124807455958,
+                "dels": 1049,
+                "len_weeks": 5,
+                "total_commits": 9,
+                "weeks": [
+                    {
+                        "a": 726504,
+                        "c": 3,
+                        "d": 151,
+                        "w": 1491696000
+                    },
+                    {
+                        "a": 121,
+                        "c": 2,
+                        "d": 6,
+                        "w": 1492300800
+                    },
+                    {
+                        "a": 291,
+                        "c": 1,
+                        "d": 208,
+                        "w": 1493510400
+                    },
+                    {
+                        "a": 218,
+                        "c": 2,
+                        "d": 123,
+                        "w": 1494115200
+                    },
+                    {
+                        "a": 66,
+                        "c": 1,
+                        "d": 561,
+                        "w": 1494720000
+                    }
+                ]
+            },
+            "updatedAt": "2017-04-09T19:29:28Z",
+            "url": "https://github.com/learp/crime_classification",
+            "watchers": {
+                "totalCount": 1
+            }
+        }
+    ],
+    "summary": {
+        "total_adds": 727298,
+        "total_ball": 8.708101178024098,
+        "total_commits": 21,
+        "total_dels": 1085
+    }
+}
